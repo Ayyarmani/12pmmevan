@@ -6,6 +6,8 @@ public class Class1 {
 		System.out.println("Pushing on the git");
 		
 		System.out.println("Clone is added");
+		
+		System.out.println("True");
 	}
 
 }
