@@ -8,6 +8,8 @@ public class Class1 {
 		System.out.println("Clone is added");
 		
 		System.out.println("True");
+		
+		System.out.println("success");
 	}
 
 }
