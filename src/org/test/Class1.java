@@ -10,6 +10,8 @@ public class Class1 {
 		System.out.println("True");
 		
 		System.out.println("success");
+		
+		System.out.println("Git is ");
 	}
 
 }
